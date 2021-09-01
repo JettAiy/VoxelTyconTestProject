@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoxelTyconTestProject", "VoxelTyconTestProject.csproj", "{AE15B58E-5116-4F79-9A5B-5A2931354D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE15B58E-5116-4F79-9A5B-5A2931354D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE15B58E-5116-4F79-9A5B-5A2931354D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE15B58E-5116-4F79-9A5B-5A2931354D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE15B58E-5116-4F79-9A5B-5A2931354D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9AAE08-0B1E-49E5-BD15-7E2F7063A6C3}
+	EndGlobalSection
+EndGlobal
