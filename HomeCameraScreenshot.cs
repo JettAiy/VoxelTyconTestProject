@@ -39,6 +39,7 @@ namespace VoxelTyconTestProject
 
             var GO = GameObject.Instantiate(cameraUI, cameraUI.transform.parent);
             var newRect = cameraUI.GetComponent<RectTransform>();
+            //GO.transform.localPosition += new Vector3(-40,0,0);
             newRect.anchoredPosition += new Vector2(baseRect.sizeDelta.x + 10, 0);
             GO.transform.SetAsFirstSibling();
 
